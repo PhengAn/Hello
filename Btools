@@ -1,0 +1,5 @@
+local speaker = game.Players.LocalPlayer
+	Instance.new("HopperBin", speaker:FindFirstChildOfClass("Backpack")).BinType = 1
+	Instance.new("HopperBin", speaker:FindFirstChildOfClass("Backpack")).BinType = 2
+	Instance.new("HopperBin", speaker:FindFirstChildOfClass("Backpack")).BinType = 3
+	Instance.new("HopperBin", speaker:FindFirstChildOfClass("Backpack")).BinType = 4
